@@ -1,6 +1,6 @@
 # To-Do List Web App
 
-A simple and interactive To-Do List built using *HTML, *CSS, and *JavaScript*.
+A simple and interactive To-Do List built using *HTML*, *CSS*, and *JavaScript*.
 
 ## Features
 
